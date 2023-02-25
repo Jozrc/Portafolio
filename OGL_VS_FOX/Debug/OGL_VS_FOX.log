@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (OGL_VS_FOX.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Source.cpp
+C:\Users\oxiel\OneDrive\Desktop\OGL_VS_TANGRAM\OGL_VS_FOX\Source.cpp(169,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  OGL_VS_FOX.vcxproj -> C:\Users\oxiel\OneDrive\Desktop\OGL_VS_TANGRAM\Debug\OGL_VS_TANGRAM.exe
